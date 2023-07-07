@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Final-Project-Movie Recommender Engine
 
 ## Project/Goals
 (fill in your description and goals here)
