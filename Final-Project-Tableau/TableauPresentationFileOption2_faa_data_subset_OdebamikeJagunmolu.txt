@@ -1,0 +1,19 @@
+﻿FINAL PROJECT PRESENTATION
+FAA WILD LIFE STRIKES
+
+
+The FAA Wildlife Strike Dataset contains records of reported wildlife strikes since 2001, focusing on all the United States states. I analyzed the   dataset and these are my key findings
+
+
+1. 1. It is noted that California recorded the highest number of airstrikes with a total of 3026 strikes recorded.
+2.   3. 2.  More strikes are recorded during the daytime as compared to any other period of the day with a total of 20,602 strikes.
+4.   3. Analyzing the stage of the flight with the highest impact to the animals and it is recorded that the Approach, Landing roll and take-off run showed the highest impact.
+  
+
+4. Analyzing which specie is mostly affected by the airstrike, and the birds are the 
+  
+
+   5. Analyzing the impact to airline companies and the amount spent due to the strike shows that most times they just had to do precautionary landing which cost over 95 Million dollars over the years
+  
+
+   6. Finally the impact of each wildlife category in cost, service hours time,and the  total number of strikes.
